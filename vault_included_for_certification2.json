@@ -1,0 +1,7 @@
+{
+  "VaultTest": {
+    "head_xpath": "//img[@alt=\"Head\"]",
+    "body_xpath": "//img[@alt=\"Body\"]",
+    "legs_xpath": "//img[@alt=\"Legs\"]"
+  }
+}
